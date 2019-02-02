@@ -1,7 +1,7 @@
 Ansible Alpine Docker Images
 ===================
 
-Dockerhub: [sbronner/ansible](https://hub.docker.com/r/sbronner/ansible/)
+Dockerhub: [sxbronner/ansible](https://hub.docker.com/r/sxbronner/ansible)
 
 Based on Alpine 3.8, a minimal ansible install (including pywinrm (with credssp) for talking to windows hosts where necessary).
 
